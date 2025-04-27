@@ -9,3 +9,10 @@ console.log(add(2,6));
 if(true){
     console.log('success');
 }
+
+
+
+const person = {
+    name:'dharani',
+    age:22,
+};
